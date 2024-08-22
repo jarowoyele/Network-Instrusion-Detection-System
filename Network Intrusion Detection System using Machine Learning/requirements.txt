@@ -1,0 +1,12 @@
+Flask
+SQLAlchemy
+scikit-learn
+pandas
+numpy
+matplotlib
+scapy
+pickle-mixin
+imbalanced-learn
+xgboost
+marshmallow
+Flask-Limiter
